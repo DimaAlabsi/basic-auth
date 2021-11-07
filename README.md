@@ -37,18 +37,18 @@
 
 ## Heroku applications 
 
-*   [main branch](https://dimaalabsibasic-api-server.herokuapp.com/)  
-dimaalabsibasic-api-server.herokuapp.com/
+*   [main branch](https://dimaalabsibasic-auth.herokuapp.com/)  
+https://dimaalabsibasic-auth.herokuapp.com/
 
 ## Github actions
 
-*    [actions](https://github.com/DimaAlabsi/basic-api-server/actions)      
-github.com/DimaAlabsi/basic-api-server/actions
+*    [actions](https://github.com/DimaAlabsi/basic-auth/actions)      
+
 
 ## pull request
 
 
-* [last pull request](https://github.com/DimaAlabsi/basic-api-server/pull/5)
+* [last pull request](https://github.com/DimaAlabsi/basic-auth/pull/1)
 
 
 # dependencies 💯
