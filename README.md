@@ -37,8 +37,8 @@
 
 ## Heroku applications 
 
-*   [main branch](https://dimaalabsibasic-api-server.herokuapp.com/)  
-dimaalabsibasic-api-server.herokuapp.com/
+*   [main branch](https://dimaalabsibasic-auth.herokuapp.com/)  
+https://dimaalabsibasic-auth.herokuapp.com/
 
 ## Github actions
 
